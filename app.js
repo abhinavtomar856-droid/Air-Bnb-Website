@@ -35,7 +35,7 @@ const sessionOptions = {
     },
 };   
 
-//Expres Session.
+//Express Session.
 app.use(session(sessionOptions));
 
 //Connect-flash.
