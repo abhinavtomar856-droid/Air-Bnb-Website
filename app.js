@@ -70,7 +70,7 @@ app.get("/",(req,res)=>{
     res.send("Home Page working");
 });
 
-// //Check for authentication.
+// //Demo User.
 // app.get("/registeruser", async(req,res) =>{
 //     let newUser = new User({
 //         email : "abhinavtomar856@gmail.com",
